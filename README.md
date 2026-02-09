@@ -102,7 +102,6 @@ AI-Code-Reviewer
 git clone https://github.com/your-username/AI-Code-Reviewer.git
 cd AI-Code-Reviewer
 ```
-
 ---
 
 ### Backend Setup
